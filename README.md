@@ -1,4 +1,4 @@
-# Heart Disease ML Benchmark 🫀
+# Heart Disease ML Comparison & Benchmark 🫀
 
 A rigorous, end-to-end comparison of **8 machine learning classifiers** for heart disease prediction. Built on merged UCI Cleveland + Kaggle datasets, this project goes beyond simple accuracy reporting — covering nested cross-validation, statistical significance testing, SHAP explainability, and gender fairness analysis.
 
